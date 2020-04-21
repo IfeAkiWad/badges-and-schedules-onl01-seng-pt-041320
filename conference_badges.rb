@@ -15,7 +15,7 @@ room_assignments = []
   speakers.each_with_index{ |attendee, room|
     room_assignments << "Hello, #{attendee}! You'll be assigned to room #{room += 1}!"
   }
-  room_assignments
+  room_assignments("room")
 end
 
 def printer(attendees)
