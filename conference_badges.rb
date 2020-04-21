@@ -24,7 +24,7 @@ def printer(attendees)
 end
 
 def printer(attendees)
-  
+
 end
 
 
@@ -61,8 +61,8 @@ end
 # end
 #
 # def printer(attendees)
-#     badges.each {|badge| 
+#     badges.each {|badge|
         # puts "#{badge}"}
-#     room_assignments.each {|room| 
+#     room_assignments.each {|room|
         # puts "#{room}"}
 # end
