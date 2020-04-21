@@ -20,9 +20,12 @@ end
 
 def printer(attendees)
   puts "Hello, my name is #{attendee}."
-  puts "Hello, #{speaker}! You'll be assigned to room #{room += 1}!"
+  puts "Hello, #{attendee}! You'll be assigned to room #{room += 1}!"
 end
 
+def printer(attendees)
+  
+end
 
 
 
@@ -58,6 +61,8 @@ end
 # end
 #
 # def printer(attendees)
-#     badges.each {|badge| puts "#{badge}"}
-#     room_assignments.each {|room| puts "#{room}"}
+#     badges.each {|badge| 
+        # puts "#{badge}"}
+#     room_assignments.each {|room| 
+        # puts "#{room}"}
 # end
